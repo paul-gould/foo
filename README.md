@@ -1,6 +1,6 @@
 # foo
 
-A test repository to check git settings etc. Adding some more text.
+A test repository to check git settings. Adding some more text.
 New line
 
 
